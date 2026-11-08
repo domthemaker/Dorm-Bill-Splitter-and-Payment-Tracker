@@ -1,4 +1,4 @@
-# Dorm Bill Splitter and Payment Tracker# 
+# Dorm Bill Splitter and Payment Tracker
 
 ## Project description
 A Java console application for managing dormitory residents, slot assignments, shared bills, individual payments, and balances.
