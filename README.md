@@ -24,8 +24,8 @@ Java 17+, standard Java library, console interface, Java object serialization.
 ## Team members and roles
 - Calingasan, Yael John P. — Lead Programmer
 - Malubago, John Dominic M. — Team Leader
-- Montalbo — Documentation (complete full name)
-- Mortel — Design Programmer (complete full name)
+- Montalbo, Alexander John P. — Documentation 
+- Mortel, Paul Adrian M. — Design Programmer
 
 ## OOP concepts demonstrated
 Classes/objects (`Resident`, `Slot`, `Bill`, `Payment`); encapsulation (private fields and methods); abstraction (`Transaction`); inheritance (`Bill` and `Payment` extend `Transaction`); polymorphism (`description()`); exception handling; Java collections.
