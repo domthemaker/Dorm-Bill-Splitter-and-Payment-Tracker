@@ -74,8 +74,11 @@ On Windows PowerShell the same commands work. The program creates `dorm_records.
 - The new separate-class serialization format is not compatible with existing `.dat` files created by the original single-file version. Back up old data before switching.
 
 ## Future improvements
-Historical slot occupancy reports, exportable reports, and a graphical interface.
+- Historical Slot Occupancy Reports: Track previous resident assignments and slot occupancy changes.
+- Exportable Reports: Allow users to export billing and payment reports as PDF or CSV files.
+- Graphical User Interface (GUI): Develop a user-friendly interface to replace the console-based system.
 
+User Authentication: Implement individual login accounts and access permissions for dorm managers and residents.
 ## Documentation
 - [Project Proposal](docs/PROJECT-PROPOSAL.pdf)
 - [UML Class Diagram](docs/UML-Diagram.pdf)
