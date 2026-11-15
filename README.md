@@ -41,7 +41,31 @@ java -cp out Main
 On Windows PowerShell the same commands work. The program creates `dorm_records.dat` in the directory where it is launched.
 
 ## Sample screenshots
-Add actual program screenshots to `screenshots/` before submission.
+
+### 1. Main Menu
+![Main Menu](screenshots/01-main-menu.png)
+
+### 2. Resident Management
+![Resident Management](screenshots/02-add-resident.png)
+
+### 3. Slot Management
+![Slot Management](screenshots/03-slot-assignment.png)
+
+### 4. Bill Allocation
+![Bill Allocation](screenshots/04-bill-allocation.png)
+
+### 5. Payment Management
+![Payment Management](screenshots/05-payment-record.png)
+
+### 6. Resident Payment Status
+![Resident Status](screenshots/06-resident-status.png)
+
+### 7. Slot Balance
+![Slot Balance](screenshots/07-slot-balance.png)
+
+### 8. Generated Report
+![Billing Report](screenshots/08-billing-report.png)
+  
 
 ## Known limitations
 - Console-only, local single-user application.
@@ -53,4 +77,5 @@ Add actual program screenshots to `screenshots/` before submission.
 Historical slot occupancy reports, exportable reports, and a graphical interface.
 
 ## Documentation
-Add the approved project proposal and UML diagram to `docs/` before submission.
+- [Project Proposal](docs/PROJECT-PROPOSAL.pdf)
+- [UML Class Diagram](docs/UML-Diagram.pdf)
